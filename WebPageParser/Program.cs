@@ -6,7 +6,9 @@ namespace WebPageParser
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string url = Console.ReadLine();
+              
+            
         }
     }
 }
